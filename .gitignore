@@ -1,0 +1,16 @@
+# macOS 系統自動產生的垃圾檔案
+.DS_Store
+
+# C 語言編譯輸出
+a.out
+*.o
+*.out
+*.exe
+*.bin
+
+# VSCode 工作目錄
+.vscode/
+
+# 任何沒有副檔名但可能是可執行檔的名稱
+program
+run
