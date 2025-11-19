@@ -37,7 +37,6 @@
 ---
 
 ### **2️⃣ linked_list_cycle_intersection.c**  
-（原 advanced_design.c，建議改名）
 
 內容包含：
 
